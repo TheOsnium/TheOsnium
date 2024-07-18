@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Ayush Sharma. I am still learning about open source programming. 
+- 👋 Hi, I’m Ayush Sharma
